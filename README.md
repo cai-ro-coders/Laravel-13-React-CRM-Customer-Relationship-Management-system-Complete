@@ -1,4 +1,4 @@
-<img src="path/to/image.png](https://github.com/cai-ro-coders/Laravel-13-React-CRM-Customer-Relationship-Management-system-Complete/blob/main/laravel13_react_CRM_system_complete.png" alt="Cairocoders Ednalan">
+<img src="https://raw.githubusercontent.com/cai-ro-coders/Laravel-13-React-CRM-Customer-Relationship-Management-system-Complete/refs/heads/main/laravel13_react_CRM_system_complete.png" alt="Cairocoders Ednalan">
 
 AI
 
